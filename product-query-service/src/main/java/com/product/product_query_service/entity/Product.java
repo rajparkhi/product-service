@@ -1,19 +1,18 @@
-package com.product.product_command_service.entity;
-
+package com.product.product_query_service.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
-import lombok.*;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
 
 @Entity
-@Table(name= "PRODUCT_COMMAND")
+@Table(name= "PRODUCT_QUERY")
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-@Getter
-@Setter
 public class Product {
 
     @Id
