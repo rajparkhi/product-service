@@ -5,37 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02f09c8b-6a76-4302-a885-3401ea7ab581" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/product/product_command_service/controller/ProductCommandController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/product/product_command_service/dto/ProductEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-query-service/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-query-service/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-query-service/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-query-service/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-query-service/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-query-service/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-query-service/src/main/java/com/product/product_query_service/controller/ProductQueryRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-query-service/src/main/java/com/product/product_query_service/dto/ProductEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-query-service/src/main/java/com/product/product_query_service/entity/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-query-service/src/main/java/com/product/product_query_service/repository/ProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-query-service/src/main/java/com/product/product_query_service/service/ProductQueryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-query-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/product-command-service.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/product/product_command_service/entity/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/product/product_command_service/entity/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/product/product_command_service/service/ProductCommandService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/product/product_command_service/service/ProductCommandService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/product/product_command_service/ProductCommandServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/product/product_command_service/ProductCommandServiceApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/product/product_command_service/entity/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/product/product_command_service/entity/Product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/product/product_command_service/repository/ProductRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/product/product_command_service/repository/ProductRepository.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/product/product_command_service/service/ProductCommandService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/product/product_command_service/service/ProductCommandService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../product-query-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../product-query-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product-query-service/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../product-query-service/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product-query-service/src/main/java/com/product/product_query_service/service/ProductQueryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../product-query-service/src/main/java/com/product/product_query_service/service/ProductQueryService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../product-query-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../product-query-service/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,17 +46,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.ProductCommandServiceApplication.executor": "Debug",
+    "Application.ProductCommandServiceApplication.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Raj/JAVA_CQRS/product-service/product-query-service",
+    "last_opened_file_path": "C:/MyFiles/CODING/JAVA-CQRS/product-query-service",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "trusted.hosts"
   }
 }]]></component>
   <component name="RunManager">
